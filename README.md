@@ -14,4 +14,4 @@ O site conta com as seguintes funcionalidades:
 - Botões funcionais com informações de contato dos responsáveis de cada setor das clínicas
 
 🔗 Link do website funcionando:
-<a href=“clinicacativar.vercel.app“>Clique aqui</a>
+<a href=“https://clinicacativar.vercel.app/“>Clique aqui</a>
