@@ -10,3 +10,5 @@ O site conta com as seguintes funcionalidades:
 - Página inicial com apresentação da clínica
 - Informações sobre os serviços oferecidos
 - Perfil dos profissionais da equipe
+- Botões funcionais com informações de localização das clínicas
+- Botões funcionais com informações de contato dos responsáveis de cada setor das clínicas
