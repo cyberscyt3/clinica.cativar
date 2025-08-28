@@ -12,3 +12,6 @@ O site conta com as seguintes funcionalidades:
 - Perfil dos profissionais da equipe
 - Botões funcionais com informações de localização das clínicas
 - Botões funcionais com informações de contato dos responsáveis de cada setor das clínicas
+
+🔗 Link do website funcionando:
+clinicacativar.vercel.app
